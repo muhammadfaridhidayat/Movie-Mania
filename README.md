@@ -1,1 +1,1 @@
-# Movie-Mania
+web for serching movies using OMDBAPI, Javascrip, Html, and Bootsrap 
