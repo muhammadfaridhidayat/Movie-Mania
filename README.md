@@ -1,1 +1,1 @@
-web for serching movies using OMDBAPI, Javascrip, Html, and Bootsrap 
+web for serching movies using OMDBAPI, Javascript, HTML, and Bootsrap 
